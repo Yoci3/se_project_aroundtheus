@@ -32,3 +32,5 @@ Future Improvements:
 -Improve margin vs padding to space my elements
 
 -Make buttons more responsive, specifically with growing and shrinking
+
+-[link to gitHub pages] (https://yoci3.github.io/se_project_aroundtheus/)
