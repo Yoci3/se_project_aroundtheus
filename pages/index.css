@@ -134,6 +134,16 @@
   border-radius: 0px 0px 10px 10px;
 }
 
+.card__title {
+  max-width: 240px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  font-family: "inter", Arial, Helvetica, sans-serif;
+  font-weight: 900px;
+  line-height: 100%;
+}
+
 .card__like-button {
   background: transparent url(../images/like-button.svg) center no-repeat;
   width: 21px;
