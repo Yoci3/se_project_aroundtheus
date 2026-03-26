@@ -76,7 +76,7 @@
   line-height: 100%;
 }
 
-input::placeholder {
+.modal__input::placeholder {
   color: #000;
   opacity: 1;
 }
